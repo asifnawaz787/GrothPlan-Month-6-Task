@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GrothPlan Month 6 Task.props" />
+</Project>

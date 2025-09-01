@@ -1,0 +1,22 @@
+﻿@using System.Text.Encodings.Web;
+@{
+    ViewData["Title"] = "Employee";
+@model List<GrothPlan_Month_6_Task.Entities.Employee>
+
+}
+
+<div class="row">
+    @foreach (var employee in Model)
+    {
+        <div class="row">
+            <div class="col-sm-6">
+           @Html.Encode(employee.Name);
+        </div>
+        <div class="col-sm-6">
+           @Html.Encode(employee.Email);
+        </div>
+        
+    </div>
+    }
+</div>
+

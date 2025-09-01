@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\controllers\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\controllers\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\6410a824d658e9bef2025f7be9cce60116432284226e8b65f9a7af48abaff25b\\BrowserLinkMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\views\\document\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\views\\document\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\views\\document\\documentchanged.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\views\\document\\documentchanged.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\code\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\code\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\code\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\code\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|c:\\users\\asif.n\\source\\repos\\grothplan month 6 task\\grothplan month 6 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C38AA4-C747-4D9B-BB97-3318C8876BD3}|GrothPlan Month 6 Task\\GrothPlan Month 6 Task.csproj|solutionrelative:grothplan month 6 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1140380140:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:471051867:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1842516632:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142440649:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1941857994:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:783386887:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1218908033:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1360815410:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:328359239:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:635181494:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:46:25.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T07:55:34.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\Views\\Employee\\AddEmployee.cshtml",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\Views\\Employee\\AddEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T07:36:16.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Entities\\Employee.cs",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\Entities\\Employee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:54:10.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrowserLinkMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\6410a824d658e9bef2025f7be9cce60116432284226e8b65f9a7af48abaff25b\\BrowserLinkMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6410a824d658e9bef2025f7be9cce60116432284226e8b65f9a7af48abaff25b\\BrowserLinkMiddleware.cs",
+              "ToolTip": "C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\6410a824d658e9bef2025f7be9cce60116432284226e8b65f9a7af48abaff25b\\BrowserLinkMiddleware.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6410a824d658e9bef2025f7be9cce60116432284226e8b65f9a7af48abaff25b\\BrowserLinkMiddleware.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwF8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:31:17.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResourceInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs",
+              "ToolTip": "C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAcwMsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:31:11.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Controllers\\Employee.cs",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\Controllers\\Employee.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Controllers\\Employee.cs",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\Controllers\\Employee.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:56:20.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:46:39.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControllerActionInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs",
+              "ToolTip": "C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAcwIABAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:31:10.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\asif.n\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs [Read Only]",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:05:30.75Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Views\\Document\\Index.cshtml",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\Views\\Document\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Views\\Document\\Index.cshtml",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\Views\\Document\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T05:41:21.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\code\\Roles.cs",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\code\\Roles.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\code\\Roles.cs",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\code\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:57:38.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\code\\DbContext.cs",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\code\\DbContext.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\code\\DbContext.cs",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\code\\DbContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:29:23.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Program.cs",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\Program.cs",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Program.cs",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:02:30.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentChanged.cshtml",
+              "DocumentMoniker": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Views\\Document\\DocumentChanged.cshtml",
+              "RelativeDocumentMoniker": "GrothPlan Month 6 Task\\Views\\Document\\DocumentChanged.cshtml",
+              "ToolTip": "C:\\Users\\asif.n\\source\\repos\\GrothPlan Month 6 Task\\GrothPlan Month 6 Task\\Views\\Document\\DocumentChanged.cshtml",
+              "RelativeToolTip": "GrothPlan Month 6 Task\\Views\\Document\\DocumentChanged.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T11:45:57.16Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
